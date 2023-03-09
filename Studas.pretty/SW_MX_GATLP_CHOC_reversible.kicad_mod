@@ -35,7 +35,7 @@
   (pad "1" smd custom (at -2.11 -4.96 180) (size 1 1) (layers "F.Cu")
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.01 -0.47) (mid -2.068234 0.241798) (end -4.162809 -0.420372) (width 0.3))
+  (gr_arc (start 0.01 -0.47) (mid -2.065169 0.24176) (end -4.157832 -0.416794) (width 0.3))
   (gr_arc (start -3.09 0.1) (mid -2.804329 0.373749) (end -2.789687 0.769137) (width 0.3))
   (gr_arc (start -3.95 0.4) (mid -3.739995 0.071301) (end -3.351236 0.039506) (width 0.25))
   (gr_arc (start -1.43 0.77) (mid -1.41596 0.374264) (end -1.13024 0.100095) (width 0.3))
@@ -46,7 +46,7 @@
     (primitives
   (gr_arc (start -0.85 0.04) (mid -0.453751 0.085491) (end -0.250115 0.428441) (width 0.25))
   (gr_arc (start -1.41 0.77) (mid -1.39596 0.374264) (end -1.11024 0.100095) (width 0.3))
-  (gr_arc (start 0.03 -0.47) (mid -2.048233 0.241798) (end -4.142808 -0.420371) (width 0.3))
+  (gr_arc (start 0.03 -0.47) (mid -2.045168 0.24176) (end -4.13783 -0.416793) (width 0.3))
   (gr_arc (start -3.93 0.4) (mid -3.719995 0.071301) (end -3.331236 0.039506) (width 0.25))
   (gr_arc (start -3.07 0.1) (mid -2.784329 0.373749) (end -2.769687 0.769137) (width 0.3))
     ) (tstamp 16eeb74f-a756-466d-bafa-a216edd53b68))

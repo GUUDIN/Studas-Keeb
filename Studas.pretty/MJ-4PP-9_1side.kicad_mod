@@ -29,7 +29,7 @@
   (pad "C" thru_hole oval (at 2.1 6.3) (size 1.7 2.5) (drill oval 1 1.5) (layers *.Cu "B.Mask") (tstamp 410fe048-8232-49f4-9f99-5c446e33dc93))
   (pad "D" thru_hole oval (at 2.1 10.3) (size 1.7 2.5) (drill oval 1 1.5) (layers *.Cu "B.Mask")
     (clearance 0.15) (tstamp dab43f3c-37a0-4289-a151-79db48cabb1b))
-  (model "${KIPRJMOD}/TOTEM3D/PJ320A.STEP"
+  (model "${KIPRJMOD}/TOTEM3D/PJ320A.STEP" hide
     (offset (xyz 0 -8.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
